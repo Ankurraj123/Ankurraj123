@@ -1,6 +1,15 @@
-# Hi 👋 I'm Ankur Raj
-🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+# Hi 👋 I'm Ankur Raj
+### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3BACF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Django+Developer;Tech+Enthusiast;Always+Learning+New+Things"/>
+
+</div>
+
+---
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
 💻 Passionate about Full Stack Development  
